@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+data/*.csv
+data/*.parquet
+models/*.joblib
+reports/*.csv
+reports/*.json
+reports/*.png
+.DS_Store
+.pytest_cache/
